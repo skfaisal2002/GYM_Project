@@ -1,3 +1,5 @@
-# GYM_Project
+to run my project python manange.py runserver
 
-adding one line of code to trigger the jenkin
+ GYM_Project
+
+adding one line of code to trigger jenkin as well
